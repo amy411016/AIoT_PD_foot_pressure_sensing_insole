@@ -1,1 +1,1 @@
-# AIoT_PD_foot_pressure_sensing_insole
+# AIoT PD Foot Pressure Sensing Insole
